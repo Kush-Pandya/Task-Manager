@@ -107,4 +107,4 @@ Version conflicts can occur when multiple tabs or sessions attempt to update the
 
 ---
 ## Architecture Diagram
-![Flow Diagram](./assets/flow-diagram.png)
+![Flow Diagram](./src/assets/flow-diagram.png)
